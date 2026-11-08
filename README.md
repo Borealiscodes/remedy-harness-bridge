@@ -190,13 +190,12 @@ We invite formal methods auditors, systems researchers, and international legal 
 
 📁 Technical Software & Core Frameworks
 
-text
+
 Stell. (2026). CAUSA: Causal Agency and Utterance-State Alignment (Version 0.1.0) [Computer software]. 
-    https://github.com/stell2026/causa. 
+    https://github.com/stell2026/causa. https://doi.org/10.5281/zenodo.22811988 
 
 📐 Mathematics & Geometric Computing
 
-text
 Bezanson, J., Edelman, A., Karpinski, S., & Shah, V. B. (2017). Julia: A fresh approach to numerical 
     computing. SIAM Review, 59(1), 65-98. https://doi.org
 
@@ -208,7 +207,7 @@ Van Der Walt, S., Colbert, S. C., & Varoquaux, G. (2011). The NumPy array: A str
 
 ⚖️ International Treaties, Conventions, & Jurisprudence
 
-text
+
 American Convention on Human Rights, Nov. 22, 1969, O.A.S.T.S. No. 36, 1144 U.N.T.S. 123.
 
 Charter of the United Nations, June 26, 1945, 59 Stat. 1031, T.S. No. 993.
