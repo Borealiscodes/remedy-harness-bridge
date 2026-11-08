@@ -186,3 +186,45 @@ When institutions introduce overly rigid, complex, and unaccommodating administr
 
 The remedy-harness-bridge provides human rights monitoring networks with the mathematical tools required to measure, map, and expose systematic institutional failure. By translating qualitative accounts of administrative obstruction into immutable coordinate manifolds, this architecture strips away the cover of bureaucratic deniability, revealing systemic exclusion as an explicit, measurable choice.
 We invite formal methods auditors, systems researchers, and international legal scholars to review this framework. Comments should focus on strengthening our verification invariants and refining our coordinate projection metrics to ensure the system remains completely resilient against adaptive administrative counter-measures.
+
+
+📁 Technical Software & Core Frameworks
+
+text
+Stell. (2026). CAUSA: Causal Agency and Utterance-State Alignment (Version 0.1.0) [Computer software]. 
+    https://github.com/stell2026/causa. 
+
+📐 Mathematics & Geometric Computing
+
+text
+Bezanson, J., Edelman, A., Karpinski, S., & Shah, V. B. (2017). Julia: A fresh approach to numerical 
+    computing. SIAM Review, 59(1), 65-98. https://doi.org
+
+Holy, T., & contributors. (2023). StaticArrays.jl: Statically sized arrays for Julia (Version 1.9.0) 
+    [Computer software]. GitHub. https://github.com
+
+Van Der Walt, S., Colbert, S. C., & Varoquaux, G. (2011). The NumPy array: A structure for efficient 
+    numerical computation. Computing in Science & Engineering, 13(2), 22-30. 
+
+⚖️ International Treaties, Conventions, & Jurisprudence
+
+text
+American Convention on Human Rights, Nov. 22, 1969, O.A.S.T.S. No. 36, 1144 U.N.T.S. 123.
+
+Charter of the United Nations, June 26, 1945, 59 Stat. 1031, T.S. No. 993.
+
+Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, Dec. 10, 1984, 
+    1465 U.N.T.S. 85.
+
+Convention on the Rights of Persons with Disabilities, Dec. 13, 2006, 2515 U.N.T.S. 3.
+
+Convention for the Protection of Human Rights and Fundamental Freedoms (European Convention on Human Rights), 
+    as amended, Nov. 4, 1950, 213 U.N.T.S. 221.
+
+International Covenant on Civil and Political Rights, Dec. 16, 1966, 999 U.N.T.S. 171.
+
+International Court of Justice. (1970). Barcelona Traction, Light and Power Company, Limited (Belgium v. Spain) 
+    [Second Phase Judgement regarding Erga Omnes obligations]. I.C.J. Reports 1970, p. 3.
+
+United Nations International Law Commission. (2001). Responsibility of States for Internationally Wrongful Acts 
+    [Peremptory norms and Jus Cogens frameworks]. Yearbook of the International Law Commission, 2(2).
