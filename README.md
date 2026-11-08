@@ -97,6 +97,11 @@ $$\Vert\mathbf{\rho}\Vert \leq 10^{-12}$$
 
 By forcing immediate failure at this boundary, the engine preserves an uncompromised spatial coordinate record for measuring out-of-band manifold isolation metrics ($d_{\mathrm{geo}}$), ensuring that high-magnitude administrative maneuvers within judicial spaces ($\mathcal{M}_A$) never leak into or synthetically optimize separate institutional horizons.
 
+Final Preprint 
+
+Hedling, B. S. (2026). The Geometry of Institutional Enclosure: Formal Vectorization of Transnational Repression and Administrative Denial of Remedy (RFC-006). Zenodo. https://doi.org/10.5281/zenodo.24060722 
+
+Drafted Preprint 
 Technical Preprint / Request for Comments (RFC-006)
 
 Title: The Geometry of Institutional Enclosure: Formal Vectorization of Transnational Repression and Administrative Denial of Remedy
