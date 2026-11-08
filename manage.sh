@@ -25,7 +25,7 @@ Usage: ./manage.sh [command]
 
 Available Commands:
   mock     - Stand up a mock Stage 1 repository environment with 180 case logs.
-  test     - Execute both Python and Julia boundary assertion test suites.
+  test     - Execute Python assertions, Julia invariants, and orchestration prototype.
   run      - Process repo text files through CAUSA filters and compile via Julia.
   clean    - Purge mock datasets, cached manifestations, and visual exports.
   all      - Sequentially execute clean, mock, test, and run pipelines.
@@ -35,7 +35,7 @@ EOF
 # --- Module Actions ---
 do_clean() {
     log_info "Purging local runtime caches and staging artifacts..."
-    rm -rf "../test-mock-stage1-repo" "data" ".pytest_cache" "__pycache__" "src/*/__pycache__"
+    rm -rf "${STAGE1_REPO_PATH}" "data" ".pytest_cache" "__pycache__" "src/*/__pycache__" "test/__pycache__" "tests/__pycache__"
     log_succ "Workspace cleaned."
 }
 
@@ -53,6 +53,9 @@ do_test() {
     
     log_info "Running Julia static array invariant verifications..."
     julia --project=. test/runtests.jl
+    
+    log_info "Running Julia Test Orchestration Ingestion Prototype (Allocation Metrics)..."
+    julia --project=. test/test_orchestration.jl
     
     log_succ "All validation gates passed successfully."
 }
